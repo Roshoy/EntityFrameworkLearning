@@ -36,3 +36,5 @@ C:\Users\Lenovo\source\repos\EntityF\EntityF\obj\Debug\EntityF.csproj.CoreCompil
 C:\Users\Lenovo\source\repos\EntityF\EntityF\obj\Debug\EntityF.csproj.CopyComplete
 C:\Users\Lenovo\source\repos\EntityF\EntityF\obj\Debug\EntityF.exe
 C:\Users\Lenovo\source\repos\EntityF\EntityF\obj\Debug\EntityF.pdb
+C:\Users\Lenovo\source\repos\EntityF\EntityF\obj\Debug\EntityF.Shop.resources
+C:\Users\Lenovo\source\repos\EntityF\EntityF\obj\Debug\EntityF.Migrations.AddOrdersFinally.resources

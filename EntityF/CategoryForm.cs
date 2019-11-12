@@ -72,7 +72,6 @@ namespace EntityF
         {
             if (e.RowIndex == ((DataGridView)sender).RowCount - 1) return;
             _categoryId = (int)((DataGridView)sender)[0, e.RowIndex].Value;
-            //this.ProductGridView.ClearSelection();
             LoadProductsOfSelectedCategory();
         }
 

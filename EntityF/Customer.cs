@@ -7,10 +7,11 @@ using System.Threading.Tasks;
 
 namespace EntityF
 {
-    class Customer
+    public class Customer
     {
         [Key]
         public string CompanyName { get; set; }
         public string Description { get; set; }
+        public List<Order> Orders { get; set; }
     }
 }
